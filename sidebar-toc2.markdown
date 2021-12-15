@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sidebar2
+# title: Sidebar2
 permalink: /sidebar-toc2/
 ---
 

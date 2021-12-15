@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Sidebar Fixed
-permalink: /sidebar-fixed/
+# title: Sidebar Fixed
 ---
 
 <nav class="toc-fixed" markdown="1">
-<button class="favorite styled" type="button">
-  <a href="https://github.com/jwrr/lued">Clone It</a>
-</button>
+<br>
+<img src="pictures/pfp (2).png" width="150">
+<h1>Andrew Wang</h1>
 * TOC
 {:toc}
 </nav>
