@@ -22,8 +22,6 @@
 ## FIXME
 title: Andrew Wang
 email: ajw7uhj@virginia.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  the lone and level sands stretch far away
 baseurl: "" # Use "" for your user page. Use "/projname" for project pages.
 url: "ajwang34.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ajwang34
@@ -36,6 +34,7 @@ linkedin_username: andrew-wang-034
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

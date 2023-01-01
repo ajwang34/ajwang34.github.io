@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: home
 ---
 
-<nav class="toc-fixed" markdown="1">
+<nav class="toc" markdown="1">
 <br>
-<img src="pictures/pfp (2).jpg" width="400">
+<img src="pictures/IMG_2504.jpg" width="400">
 <h1>Andrew Wang</h1>
 * TOC
 {:toc}
@@ -13,31 +13,26 @@ layout: page
 About Me
 --------
 
-I am a CS Master’s student at the University of Virginia advised Prof. Yangfeng Ji, with a research focus towards Natural Language Processing, specifically in the areas of language model interpretability, fairness, and bias. I graduated with a BS in Computer Science from UVA in 2021 and started my research in NLP when I joined the UVA Information and Language Processing (ILP) Lab that summer. 
-
+I am a Research Associate at Johns Hopkins University in the [Human Language Technology Center of Excellence](https://hltcoe.jhu.edu/). I am currently interested in controllable text generation, representation learning, and NLP for social good. Before that I worked with Prof. Yangfeng Ji at the University of Virginia in the [Information and Language Processing Lab](https://uvanlp.org/) where I earned an MS in computer science.  
 
 Publications
 ------------
 
-- **Simple Text Detoxification by Identifying a Linear Toxic Subspace in  
-Language Model Embeddings**  
-Andrew Wang, Mohit Sudhakar, and Yangfeng Ji.  
-Unpublished preprint. [Arxiv]()
+#### In Submission
+- **Does Author Representation Learning Capture Stylistic Features?**  
+Andrew Wang\*, Cristina Aggazzotti\*, Rebecca Kotula\*, Rafael Rivera Soto\*, Marcus Bishop, Nicholas Andrews   
+*Transactions of the Association for Computational Linguistics (under review - Nov 2022)*  
 
-Experiences
------------
-- **Independent Research**  
-[UVA Information and Language Processing Lab](https://uvanlp.org/)
-- **Graduate Research Assistant**  
-[Weldon Cooper Center](https://coopercenter.org/)
+#### Accepted
 
-Projects
---------
-- **GOT Jokes: Game of Thrones Jokes Generator**  
-Created a text generator to produce topical Game of Thrones jokes using transfer  
-learning on GPT-2  
-- **SickoCode: Lyrics Language Model**  
-Created a simple statistical language model from scratch to learn rap lyric speech  
-patterns using NLTK
+- **Sentence Level Embedding Detoxification via Toxic Component Removal**  
+Andrew Wang (Advised by Yangfeng Ji)  
+*Master's Thesis. April 2022.*
+[link](https://doi.org/10.18130/5pch-v272)
 
+- **Does Differential Privacy Impact Bias in Pretrained NLP Models?**  
+Md. Khairul Islam\*, Andrew Wang\*, Jieyu Zhao, Yangfeng Ji, Tianhao Wang  
+*4th AAAI Workshop on Privacy Preserving Artificial Intelligence. February 2023.* 
+
+`*` denotes equal contribution
 
