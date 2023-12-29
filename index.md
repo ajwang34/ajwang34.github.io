@@ -9,7 +9,7 @@ I am a first year PhD student at the [Center for Language and Speech Processing]
 
 # Papers
 
-* **Learning to Generate Text in Arbitrary Writing Styles**  
+* **[Learning to Generate Text in Arbitrary Writing Styles](https://arxiv.org/abs/2312.17242)**  
 Aleem Khan, _Andrew Wang_, Sophia Hager, Nicholas Andrews  
 Arxiv preprint, 2023
 
