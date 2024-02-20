@@ -5,17 +5,23 @@ layout: default
 
 # About
 
-I am a first year PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) @ Johns Hopkins advised by Nicholas Andrews, Daniel Khashabi, and Mark Dredze. I am interested in LLM reasoning and controllable text generation and currently work on tool-use and stylistic text generation. 
+I am a first year PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) @ Johns Hopkins advised by Nicholas Andrews, Daniel Khashabi, and Mark Dredze. I am broadly interested in LLM reasoning and controllable text generation and currently work on generalizable tool-use and stylistic text generation. 
 
 # Papers
+
+* **[AnaloBench: Benchmarking the Identification of Abstract and Long-context Analogies](https://arxiv.org/abs/2402.12370)**  
+Xiao Ye,\* _Andrew Wang_,\* Jacob Choi, Yining Lu, Shreya Sharma, Lingfeng Shen, Vijay Tiyyala, Nicholas Andrews, Daniel Khashabi  
+Arxiv preprint, 2024
 
 * **[Learning to Generate Text in Arbitrary Writing Styles](https://arxiv.org/abs/2312.17242)**  
 Aleem Khan, _Andrew Wang_, Sophia Hager, Nicholas Andrews  
 Arxiv preprint, 2023
 
 * **[Can Authorship Representation Learning Capture Stylistic Features?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00610/118299)**  
-_Andrew Wang_, Cristina Aggazzotti, Rebecca Kotula, Rafael Rivera-Soto, Marcus Bishop, and Nicholas Andrews  
+_Andrew Wang_,\* Cristina Aggazzotti,\* Rebecca Kotula, Rafael Rivera-Soto, Marcus Bishop, and Nicholas Andrews  
 TACL, 2023 
+
+\*: denotes co-first author
 
 # Talks
 
